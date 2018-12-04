@@ -4,7 +4,7 @@ title: Impressum
 permalink: /impressum/
 ---
 
-Alexander Krull
+Alexander Krull \\
 Max Planck Institute of \\
 Molecular Cell Biology and Genetics \\
 Pfotenhauerstr. 108 \\
