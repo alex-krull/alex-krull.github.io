@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-permalink: /aboutMe/
+permalink: /impressum/
 ---
 
 Alexander Krull
