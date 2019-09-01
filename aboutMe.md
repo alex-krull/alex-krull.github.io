@@ -19,10 +19,18 @@ Pfotenhauerstr. 108 \\
 Publications
 ------------------------
 
+Buchholz, Tim-Oliver; Krull, Alexander; Shahidi , Réza; Pigino, Gaia; Jékely, Gáspár; Jug, Florian:
+**Content-aware image restoration for electron microscopy**
+Methods in cell biology 2019
+
+Krull, Alexander; Tomáš Vičar, Jug, Florian: \\
+**Probabilistic Noise2Void:Unsupervised Content-Aware Denoising** \\
+CVPR 2019
+
 Alexander Krull, Tim-Oliver Buchholz, Florian Jug
 (Krull and Buchholz contributed equally): \\
 **Noise2Void - Learning Denoising from Single Noisy Images** \\
-arXiv 2018
+CVPR 2019
 
 Alexander Krull, Eric Brachmann, Sebastian Nowozin, Frank Michel, Jamie Shotton, Carsten Rother:\\
 **PoseAgent: Budget-Constrained 6D Object Pose Estimation via Reinforcement Learning** \\
