@@ -19,8 +19,8 @@ Pfotenhauerstr. 108 \\
 Publications
 ------------------------
 
-Buchholz, Tim-Oliver; Krull, Alexander; Shahidi , Réza; Pigino, Gaia; Jékely, Gáspár; Jug, Florian:
-**Content-aware image restoration for electron microscopy**
+Buchholz, Tim-Oliver; Krull, Alexander; Shahidi , Réza; Pigino, Gaia; Jékely, Gáspár; Jug, Florian: \\
+**Content-aware image restoration for electron microscopy** \\
 Methods in cell biology 2019
 
 Krull, Alexander; Tomáš Vičar, Jug, Florian: \\
