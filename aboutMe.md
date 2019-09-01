@@ -20,12 +20,12 @@ Publications
 ------------------------
 
 Buchholz, Tim-Oliver; Krull, Alexander; Shahidi , Réza; Pigino, Gaia; Jékely, Gáspár; Jug, Florian:\\
-**Content-aware image restoration for electron microscopy** \\
+**Content-Aware Image Restoration for Electron Microscopy** \\
 Methods in cell biology 2019
 
 Krull, Alexander; Tomáš Vičar, Jug, Florian: \\
 **Probabilistic Noise2Void:Unsupervised Content-Aware Denoising** \\
-CVPR 2019
+ArXiv 2019
 
 Alexander Krull, Tim-Oliver Buchholz, Florian Jug
 (Krull and Buchholz contributed equally): \\
