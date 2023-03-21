@@ -5,7 +5,7 @@ permalink: /aboutMe/
 ---
 
 ------------------------
-\\
+\
 <img src="/assets/me.jpg" width="150px" height="150">
 
 I am a lecturer at the University of Birmingham:
