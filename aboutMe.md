@@ -8,13 +8,13 @@ permalink: /aboutMe/
 \\
 <img src="/assets/me.jpg" width="150px" height="150">
 
-I am currently a postdoc in the [Jug Lab](https://www.mpi-cbg.de/research-groups/current-groups/florian-jug/research-focus/) at MPI-CBG / CSBD in Dresden:
+I am a lecturer at the University of Birmingham:
 
-Max Planck Institute of \\
-Molecular Cell Biology and Genetics \\
-Pfotenhauerstr. 108 \\
-01307 Dresden, Germany
-
+Alexander Krull \\
+Lecturer in Data Science and AI \\
+School of Computer Science \\
+University of Birmingham \\
+B15 2TT \\
 
 Publications
 ------------------------
