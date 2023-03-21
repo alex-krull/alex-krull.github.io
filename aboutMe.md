@@ -10,11 +10,11 @@ permalink: /aboutMe/
 
 I am a lecturer at the University of Birmingham:
 
-Alexander Krull \\
-Lecturer in Data Science and AI \\
-School of Computer Science \\
-University of Birmingham \\
-B15 2TT \\
+Alexander Krull //
+Lecturer in Data Science and AI //
+School of Computer Science //
+University of Birmingham //
+B15 2TT //
 
 Publications
 ------------------------
