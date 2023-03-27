@@ -68,6 +68,8 @@ Self-Supervised Audio Denoising
 In the last years, a number of methods have been developed for self-supervised image denoising, e.g.: 
 * [N2V](https://arxiv.org/abs/1811.10980) or 
 * [HDN](https://arxiv.org/abs/2104.01374)
+
+
 These methods can be trained using only noisy image and do not require paired training data.
 The goal of this project is to try self-supervised denoising for audio signals instead of images.
 We could for example use this to denoise old recordings that contain a large ammount of noise.
