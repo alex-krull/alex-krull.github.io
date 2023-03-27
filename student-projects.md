@@ -40,25 +40,6 @@ The aims of the project are
 * Try to train VAEs from incomplete data, that is when some of the channels are missing in parts of the training data.
 
 
-
-
-
-Aurotegressive Image Priors for Image Restoration
-------------------------
-Like GANs and  variational autoencoders (VAEs) are generative image models that can learn a probability distribution over images.
-That is, once they are trained on a set of training image, they can produce similar generated images that are of the same type.
-The goal of this project is to apply the technology to multi channel [fluorescence microscopy](https://en.wikipedia.org/wiki/Fluorescence_microscope) images.
-Fluorescence microscopy allows us to highlight multiple parts of the living cell in different colour channels.
-However, the number of channels that can be imaged at the same time is limited.
-A generative model could help to mitigate this limitations.
-
-The aims of the project are 
-* Train a VAE on multichannel fluorescence microscopy data
-* Find a way to evaluate the quality of the generated images
-* Try to train VAEs from incomplete data, that is when some of the channels are missing in parts of the training data.
-
-
-
 MAP Image Restoration
 ------------------------
 Most image restoration algorithms train a convolutional neural network (CNN) to learn a mapping from the degraded image to a corresponding noise-free image, often using a quadratic loss function.
