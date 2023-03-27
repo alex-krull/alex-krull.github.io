@@ -5,8 +5,8 @@ permalink: /impressum/
 ---
 
 Alexander Krull \\
-Max Planck Institute of \\
-Molecular Cell Biology and Genetics \\
-Pfotenhauerstr. 108 \\
-01307 Dresden, Germany \\
-email: *krull@mail.mpi-cbg.de*
+Lecturer in Data Science and AI \\
+School of Computer Science \\
+University of Birmingham \\
+B15 2TT \\
+email: *a.f.f.krull@bham.ac.uk*
