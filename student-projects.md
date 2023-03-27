@@ -11,7 +11,7 @@ GANs for Fluorescence Microscopy
 (Images byt Tony Collins)
 
 Generative Adversarial Networks (GANs) are powerful image models that can a learn probability distribution over images.
-That is, once they are trained on a set of training image, they can produce similar generated images that are of the same type.
+That is, once they are trained on a set of training images, they can produce similar generated images that are of the same type.
 The goal of this project is to apply the technology to multi channel [fluorescence microscopy](https://en.wikipedia.org/wiki/Fluorescence_microscope) images.
 Fluorescence microscopy allows us to highlight multiple parts of the living cell in different colour channels.
 However, the number of channels that can be imaged at the same time is limited.
