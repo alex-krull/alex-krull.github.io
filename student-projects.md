@@ -81,4 +81,4 @@ The goal of this project is to address the [kaggle challenge](https://www.kaggle
 
 Machine Learning for COPS photon counting
 ------------------------
-<img src="/assets/student-projects/cops.png" width="300px">
+<img src="/assets/student-projects/cops.png" width="600px">
