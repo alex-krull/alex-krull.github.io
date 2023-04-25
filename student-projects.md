@@ -77,3 +77,8 @@ We could for example use this to denoise old recordings that contain a large amm
 Detecting Ink in Ancient Documents
 ------------------------
 The goal of this project is to address the [kaggle challenge](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection) for detecting ink on charred roman documents helping to decipher them.
+
+
+Machine Learning for COPS photon counting
+------------------------
+<img src="/assets/student-projects/cops.png" width="300px">
