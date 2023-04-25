@@ -82,3 +82,7 @@ The goal of this project is to address the [kaggle challenge](https://www.kaggle
 Machine Learning for COPS photon counting
 ------------------------
 <img src="/assets/student-projects/cops.png" width="600px">
+While traditional fluorescence microscopy can only attempt to count the number of photons arriving at each pixel, COPS imaging uses a special setup (image on the left), that attempts to determine how many photons arrive at the same time in each pixel. The image on the right shows a simulated COPS data. for each pixel, we can measure how often x=0, 1, 2, 3, or 4 photons arrived at the same time.
+This canhelp us to determine how many molecules were emitting the light.
+For example, when we observe two photons simultaneusly, we know that at least to molecules were emitting light.
+This project is about using machine learning and probabilistic modelling to make the best use of this technology. 
