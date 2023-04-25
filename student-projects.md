@@ -79,12 +79,13 @@ Detecting Ink in Ancient Documents
 The goal of this project is to address the [kaggle challenge](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection) for detecting ink on charred roman documents helping to decipher them.
 
 
-Machine Learning for COPS photon counting
+Machine Learning for COPS Photon Counting
 ------------------------
 <img src="/assets/student-projects/cops.png" width="600px">
+
 While traditional fluorescence microscopy can only attempt to count the number of photons arriving at each pixel, COPS imaging uses a special setup (image on the left), that attempts to determine how many photons arrive at the same time in each pixel. The image on the right shows a simulated COPS data. for each pixel, we can measure how often x=0, 1, 2, 3, or 4 photons arrived at the same time.
 This canhelp us to determine how many molecules were emitting the light.
 For example, when we observe two photons simultaneusly, we know that at least to molecules were emitting light.
 This project is about using machine learning and probabilistic modelling to make the best use of this technology.
-The project would be a collaboration with professor [Herten](https://www.birmingham.ac.uk/staff/profiles/cardiovascular-sciences/herten-dirk-peter.aspx), who helped develop this imaging method.
+The project is a collaboration with professor [Herten](https://www.birmingham.ac.uk/staff/profiles/cardiovascular-sciences/herten-dirk-peter.aspx), who helped develop this imaging method.
 
