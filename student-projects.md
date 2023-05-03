@@ -4,18 +4,29 @@ title: Student Projects
 permalink: /student-projects/
 ---
 
+
+Topic Discussions Meetings
+------------------------
+There will be two meetings to discuss project topics.
+If you are interested please come to one of them.
+The meetings will be:
+* **Thursday May 4 at 4pm in room 245** in the computer science building
+* **Friday May 5 at 9am in room 217** in the computer science building
+
+
+
 GANs for Fluorescence Microscopy 
 ------------------------
 <img src="/assets/student-projects/rgb.png" width="150px" height="150"> <img src="/assets/student-projects/red.png" width="150px" height="150"> <img src="/assets/student-projects/green.png" width="150px" height="150"> <img src="/assets/student-projects/blue.png" width="150px" height="150">
 
-(Images byt Tony Collins)
+(Images by Tony Collins)
 
 Generative Adversarial Networks (GANs) are powerful image models that can a learn probability distribution over images.
 That is, once they are trained on a set of training images, they can produce similar generated images that are of the same type.
 The goal of this project is to apply the technology to multi channel [fluorescence microscopy](https://en.wikipedia.org/wiki/Fluorescence_microscope) images.
 Fluorescence microscopy allows us to highlight multiple parts of the living cell in different colour channels.
 However, the number of channels that can be imaged at the same time is limited.
-A generative model could help to mitigate this limitations.
+A generative model could help to mitigate these limitations.
 
 The aims of the project are
 * Train a GAN on multichannel fluorescence microscopy data
@@ -32,7 +43,7 @@ That is, once they are trained on a set of training images, they can produce sim
 The goal of this project is to apply the technology to multi channel [fluorescence microscopy](https://en.wikipedia.org/wiki/Fluorescence_microscope) images.
 Fluorescence microscopy allows us to highlight multiple parts of the living cell in different colour channels.
 However, the number of channels that can be imaged at the same time is limited.
-A generative model could help to mitigate this limitations.
+A generative model could help to mitigate these limitations.
 
 The aims of the project are 
 * Train a VAE on multichannel fluorescence microscopy data
