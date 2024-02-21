@@ -7,12 +7,28 @@ permalink: /student-projects/
 
 Topic Discussions Meetings
 ------------------------
-There will be two meetings to discuss project topics.
-If you are interested please come to one of them.
-The meetings will be:
-* **Thursday May 4 at 4pm in room 245** in the computer science building
-* **Friday May 5 at 9am in room 217** in the computer science building
+If you are interested in doing your project under my supervision, please **drop me an email including "STUDENT PROJECT" in the subject** and if you have time please come to the meeting at
+* **Friday March 1 at 4pm in room 217** in the computer science building.
 
+
+Denoising for Imaging Mass Cytometry 
+------------------------
+[Imaging mass cytometry](https://en.wikipedia.org/wiki/Mass_spectrometry_imaging) produces multichannel images where pixel-values correspond to the number of moluecules that have been detected for each location.
+This type of noise follows a [Poisson distribution](https://en.wikipedia.org/wiki/Shot_noise).
+The aim of this project is to implement and evaluate self-supervised denoising using the [GAP approach](https://github.com/krulllab/gap).
+
+![image](https://github.com/alex-krull/alex-krull.github.io/assets/1193459/ed2483aa-7823-4cd8-a29b-1cf8d34a74ec)
+
+
+Games on a Goldberg Polyhedron 
+------------------------
+In games, [hexmaps](https://en.wikipedia.org/wiki/Hex_map) have certain advantages over regural square tilings.
+The goal of this project is to develop a game on a spherical planet covered by a hexmap.
+This can be achieved using [Goldberg polyhedra](https://en.wikipedia.org/wiki/Goldberg_polyhedron).
+Ideally, the game could feel like a normal hexmap-based game when zoomed in.
+It could be achieved using the [Unreal](https://en.wikipedia.org/wiki/Unreal_Engine) or [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) game engine.
+
+![image](https://github.com/alex-krull/alex-krull.github.io/assets/1193459/a48cb0db-4df4-4986-8319-486fd2da9a2f)
 
 
 GANs for Fluorescence Microscopy 
@@ -88,15 +104,3 @@ We could for example use this to denoise old recordings that contain a large amm
 Detecting Ink in Ancient Documents
 ------------------------
 The goal of this project is to address the [kaggle challenge](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection) for detecting ink on charred roman documents helping to decipher them.
-
-
-Machine Learning for COPS Photon Counting
-------------------------
-<img src="/assets/student-projects/cops.png" width="600px">
-
-While traditional fluorescence microscopy can only attempt to count the number of photons arriving at each pixel, COPS imaging uses a special setup (image on the left), that attempts to determine how many photons arrive at the same time in each pixel. The image on the right shows a simulated COPS data. for each pixel, we can measure how often x=0, 1, 2, 3, or 4 photons arrived at the same time.
-This canhelp us to determine how many molecules were emitting the light.
-For example, when we observe two photons simultaneusly, we know that at least to molecules were emitting light.
-This project is about using machine learning and probabilistic modelling to make the best use of this technology.
-The project is a collaboration with professor [Herten](https://www.birmingham.ac.uk/staff/profiles/cardiovascular-sciences/herten-dirk-peter.aspx), who helped develop this imaging method.
-
