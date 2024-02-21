@@ -11,6 +11,11 @@ If you are interested in doing your project under my supervision, please **drop 
 * **Friday March 1 at 4pm in room 217** in the computer science building.
 
 
+Attention-based Model Architecures for Denoising 
+------------------------
+Traditionally, the [U-net architecture](https://en.wikipedia.org/wiki/U-Net) has been very popular fro image denoising in the microscopy image domain.
+The goal of this project is to apply more modern architectures such as [RIN](https://github.com/lucidrains/recurrent-interface-network-pytorch) and quantitatively evaluate the results.
+
 Denoising for Imaging Mass Cytometry 
 ------------------------
 [Imaging mass cytometry](https://en.wikipedia.org/wiki/Mass_spectrometry_imaging) produces multichannel images where pixel-values correspond to the number of moluecules that have been detected for each location.
@@ -18,6 +23,8 @@ This type of noise follows a [Poisson distribution](https://en.wikipedia.org/wik
 The aim of this project is to implement and evaluate self-supervised denoising using the [GAP approach](https://github.com/krulllab/gap).
 
 ![image](https://github.com/alex-krull/alex-krull.github.io/assets/1193459/ed2483aa-7823-4cd8-a29b-1cf8d34a74ec)
+
+![image](https://github.com/alex-krull/alex-krull.github.io/assets/1193459/48ed1e0f-12de-41c9-a0ff-339981cd4a42)
 
 
 Games on a Goldberg Polyhedron 
