@@ -7,8 +7,8 @@ permalink: /student-projects/
 
 Topic Discussions Meetings
 ------------------------
-If you are interested in doing your project under my supervision, please **drop me an email including "STUDENT PROJECT" in the subject** and if you have time please come to the meeting at
-* **Friday March 1 at 4pm in room 217** in the computer science building.
+If you are interested in doing your project under my supervision, please **drop me an email including "STUDENT PROJECT" in the subject** (a.f.f.krull at bham.ac.uk) and, if you have time, please come to the meeting at
+**Friday March 1 at 4pm in room 217** in the computer science building.
 
 
 Attention-based Model Architecures for Denoising 
